@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AboutUs">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_32sdp"
+        android:text="Ihdi Ulhaq Abdul Al Aslam"
+        android:textAlignment="center"
+        android:textSize="@dimen/_13sdp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="19.11.3239"
+        android:textAlignment="center"
+        android:textSize="@dimen/_13sdp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_16sdp"
+        android:text="@string/aplikasi_ini_adalah_aplikasi_untuk_membuat_catalog_film_n_aplikasi_ini_juga_menyediakan_banyak_list_film_lengkap_dan_detail_n_n_aplikasi_ini_digunakan_untuk_ujian_tengah_semester_pemrograman_aplikasi_mobile"
+        android:justificationMode="inter_word"
+        android:textSize="@dimen/_10sdp"
+        />
+
+
+
+
+
+
+</LinearLayout>

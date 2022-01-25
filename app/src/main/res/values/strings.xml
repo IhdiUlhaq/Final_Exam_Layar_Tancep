@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UJIAN AKHIR SEMESTER ST088 - PROGRAM APLIKASI MOBILE</string>
+    <string name="aplikasi_ini_adalah_aplikasi_untuk_membuat_catalog_film_n_aplikasi_ini_juga_menyediakan_banyak_list_film_lengkap_dan_detail_n_n_aplikasi_ini_digunakan_untuk_ujian_tengah_semester_pemrograman_aplikasi_mobile">Aplikasi ini adalah aplikasi untuk membuat catalog film \n aplikasi ini juga menyediakan banyak list film lengkap dan detail. \n \n Aplikasi ini digunakan untuk Ujian Tengah Semester Pemrograman Aplikasi Mobile</string>
+    <string name="tentang_saya">Tentang saya</string>
+    <string name="tambahken_bookmark">Tambahken Bookmark</string>
+    <string name="hapusken_layar_tancep">Hapusken Layar Tancep</string>
+    <string name="lihat_bookmark_layar_tancep">Lihat Bookmark Layar Tancep</string>
+    <string name="uas">Ujian Akhir Semester \n ST088 - PROGRAM APLIKASI MOBILE </string>
+    <string name="bookmark"> Bookmark Layar Tancep </string>
+    <string name="LTGajadi"> Layar Tancep Gagal ditambahken ke Bookmark </string>
+    <string name="LTJadi"> layar Tancep ditambahken ke Bookmark </string>
+</resources>

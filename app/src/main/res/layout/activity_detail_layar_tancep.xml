@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DetailLayarTancep">
+
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="@dimen/_160sdp"
+        android:layout_height="@dimen/_200sdp"
+        android:src="@drawable/ic_launcher_background"
+        android:layout_margin="@dimen/_12sdp"
+        />
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/_16sdp">
+
+
+
+        <TextView
+            android:id="@+id/txtId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:textSize="@dimen/_10ssp"
+            android:textStyle="bold"
+            android:layout_marginTop="@dimen/_16sdp"
+            />
+
+        <TextView
+            android:id="@+id/txtName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:text="@string/app_name"
+            android:textSize="@dimen/_10ssp"/>
+        <TextView
+            android:id="@id/txtName2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:text="SHaa"
+            android:textSize="@dimen/_10sdp"
+            />
+        <TextView
+            android:id="@id/txtName3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:text="SHaa"
+            android:textSize="@dimen/_10sdp"
+            />
+
+
+        <Button
+            android:id="@+id/btnLihatTancep"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:text="@string/lihat_bookmark_layar_tancep"
+            android:onClick="TampilkenLayartancep"
+            android:textSize="@dimen/_12sdp"/>
+
+
+
+
+
+
+</LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/BtnTambahken"
+                android:layout_width="186dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/_16sdp"
+                android:backgroundTint="#43b581"
+
+                android:text="@string/tambahken_bookmark"
+                android:textSize="@dimen/_12sdp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true">
+
+            <Button
+                android:id="@+id/BtnHapusken"
+                android:layout_width="178dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/_16sdp"
+                android:backgroundTint="#faa61a"
+
+                android:text="@string/hapusken_layar_tancep"
+                android:textSize="@dimen/_12sdp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>
+
+
+
+
+

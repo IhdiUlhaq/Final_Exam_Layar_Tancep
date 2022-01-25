@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidSTD/FILE UTS LAMA/ashssasuts/UTS/UTS/app/src/main/res/layout/activity_about_us.xml" value="0.33" />
+        <entry key="..\:/AndroidSTD/FILE UTS LAMA/ashssasuts/UTS/UTS/app/src/main/res/layout/activity_bookmark.xml" value="0.225" />
+        <entry key="..\:/AndroidSTD/FILE UTS LAMA/ashssasuts/UTS/UTS/app/src/main/res/layout/activity_detail_layar_tancep.xml" value="0.25" />
+        <entry key="..\:/AndroidSTD/FILE UTS LAMA/ashssasuts/UTS/UTS/app/src/main/res/layout/activity_list_layar.xml" value="0.1" />
+        <entry key="..\:/AndroidSTD/FILE UTS LAMA/ashssasuts/UTS/UTS/app/src/main/res/layout/activity_main.xml" value="0.225" />
+        <entry key="..\:/AndroidSTD/FILE UTS LAMA/ashssasuts/UTS/UTS/app/src/main/res/layout/item_film_layout.xml" value="0.225" />
+        <entry key="..\:/AndroidSTD/UTS/app/src/main/res/layout/activity_list_layar.xml" value="0.3456904541241891" />
+        <entry key="..\:/AndroidSTD/UTS/app/src/main/res/layout/item_film_layout.xml" value="0.225" />
+        <entry key="..\:/AndroidSTD/UTS3239/UTS/UTS/app/src/main/res/layout/aboutus.xml" value="0.22395833333333334" />
+        <entry key="..\:/AndroidSTD/UTS3239/UTS/UTS/app/src/main/res/layout/activity_about_us.xml" value="0.22395833333333334" />
+        <entry key="..\:/AndroidSTD/UTS3239/UTS/UTS/app/src/main/res/layout/activity_detail_layar_tancep.xml" value="0.33" />
+        <entry key="..\:/AndroidSTD/UTS3239/UTS/UTS/app/src/main/res/layout/activity_list_layar.xml" value="0.225" />
+        <entry key="..\:/AndroidSTD/UTS3239/UTS/UTS/app/src/main/res/layout/activity_main.xml" value="0.225" />
+        <entry key="..\:/AndroidSTD/UTS3239/UTS/UTS/app/src/main/res/layout/item_film_layout.xml" value="0.225" />
+        <entry key="..\:/AndroidSTD/ashssasuts/ashssasuts/UTS/UTS/app/src/main/res/layout/activity_about_us.xml" value="0.225" />
+        <entry key="..\:/AndroidSTD/ashssasuts/ashssasuts/UTS/UTS/app/src/main/res/layout/activity_detail_layar_tancep.xml" value="0.225" />
+        <entry key="..\:/AndroidSTD/ashssasuts/ashssasuts/UTS/UTS/app/src/main/res/layout/activity_list_layar.xml" value="0.225" />
+        <entry key="..\:/AndroidSTD/ashssasuts/ashssasuts/UTS/UTS/app/src/main/res/layout/activity_main.xml" value="0.225" />
+        <entry key="..\:/AndroidSTD/ashssasuts/ashssasuts/UTS/UTS/app/src/main/res/layout/item_film_layout.xml" value="0.225" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/UTS/UTS/app/src/main/res/layout/activity_list_layar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/UTS/UTS/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/UTS/UTS/app/src/main/res/layout/item_film_layout.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/ashssasuts/UTS/UTS/app/src/main/res/layout/activity_detail_layar_tancep.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

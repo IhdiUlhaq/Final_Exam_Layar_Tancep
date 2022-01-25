@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/uas"
+        android:layout_marginTop="@dimen/_30sdp"
+        android:layout_marginRight="@dimen/_16sdp"
+        android:layout_marginLeft="@dimen/_16sdp"
+        android:layout_marginBottom="@dimen/_16sdp"
+        android:textSize="@dimen/_14sdp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"/>
+
+
+
+    <Button
+        android:id="@+id/btnTANCEP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_20sdp"
+        android:text="Layar Tancep Geming"
+        android:textSize="@dimen/_13sdp"
+        android:onClick="ShowListTancep"
+
+        />
+
+    <Button
+        android:id="@+id/btnLihatTancep"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:layout_marginLeft="@dimen/_16sdp"
+        android:layout_marginRight="@dimen/_16sdp"
+        android:text="@string/lihat_bookmark_layar_tancep"
+        android:onClick="TampilkenLayartancep"
+        android:textSize="@dimen/_12sdp"/>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_48sdp"
+        android:onClick="ShowAboutUs"
+        android:text="@string/tentang_saya"
+        android:textSize="@dimen/_11sdp"
+
+        />
+
+
+
+
+
+</LinearLayout>
